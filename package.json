@@ -1,0 +1,22 @@
+{
+  "name": "react_sandbox",
+  "version": "1.0.0",
+  "description": "'Playing around with React.js'",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnkntran/react_sandbox.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "John",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnkntran/react_sandbox/issues"
+  },
+  "homepage": "https://github.com/johnkntran/react_sandbox#readme"
+}
